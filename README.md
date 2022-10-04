@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dwOrigin
+- 👋 Hi, I’m @dwOrign
 - 👀 I’m interested in computer version
 - 🌱 I’m currently learning big data processing
 
