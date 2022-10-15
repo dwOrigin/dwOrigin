@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dwOrign
-- 👀 I’m interested in computer version
+- 👋 Hi, I’m @ChenDaiWei
+- 👀 I’m interested in computer version and big data processing
 - 🌱 I’m currently learning big data processing
 
 <!---
